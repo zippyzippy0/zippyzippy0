@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zippyzippy0
-- 👀 I’m interested in electronics, technology, programming, and AI.
+- 👀 I’m interested in electronics, technology, programming, AI and Machine Learning.
 - 🌱 I’m currently learning Python and machine learning.
 - 💞️ I’m looking to collaborate on open-source AI projects.
 - 📫 How to reach me: via email at zkavutha403@gmail.com or on Twitter @zippychrist.
